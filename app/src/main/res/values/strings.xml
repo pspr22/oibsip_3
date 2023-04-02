@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task 3</string>
+    <string name="available"> Available operators:-
+        +,  -,  *,  /,  ^  </string>
+</resources>
